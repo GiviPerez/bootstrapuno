@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body{
+
+    background-color:antiquewhite;
+}
+.fondorojo {
+    background-color: red;
+}
+.fondoverde {
+    background-color: green;
+}
+.altura1 {
+    height: 5rem;
+}
+.altura2 {
+    height: 15rem;
+}
+.fondoamarillo {
+    background-color: yellow;
+}
+.fondoazul {
+    background-color: blue;
+}
+.fondomorado {
+    background-color: blueviolet;
+}
+.altura3 {
+    height: 20rem;
+}
+.altura4 {
+    height: 20rem;
+}
+.altura5{
+    height: 20rem;
+}
+.fondorosado {
+    background-color: palevioletred;
+}
+
+
